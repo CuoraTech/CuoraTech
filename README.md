@@ -9,4 +9,4 @@ In Curatec, we provide you with technological services in various fields that ar
 - YouTube : (https://youtube.com/@cuoratech).
 - Twitter : (https://twitter.com/cuoratech).
 
-<p>All rights reserved, created by <a href="https://laravel.com" target="_blank"><img src="https://cuoratech.com/public/assets/images/png-logo-white.png" width="100"></a></p>
+<p>All rights reserved, created by <br><a href="https://laravel.com" target="_blank"><img src="https://cuoratech.com/public/assets/images/png-logo-white.png" width="100"></a></p>
