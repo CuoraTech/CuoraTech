@@ -1,8 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cuoratech.com/public/assets/images/png-logo-white.png" width="200"></a></p>
 
-## About Laravel
+## About Cuoratech
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+In Curatec, we provide you with technological services in various fields that are enhanced by artificial intelligence, and we are working to develop systems to suit the processes of dealing with customers through digitization and the use of technology in your projects
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
