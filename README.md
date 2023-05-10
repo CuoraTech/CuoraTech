@@ -2,11 +2,11 @@
 
 ## About Cuoratech
 
-In Curatec, we provide you with technological services in various fields that are enhanced by artificial intelligence, and we are working to develop systems to suit the processes of dealing with customers through digitization and the use of technology in your projects
+In Cuoratech, we provide you with technological services in various fields that are enhanced by artificial intelligence, and we are working to develop systems to suit the processes of dealing with customers through digitization and the use of technology in your projects
 
 - Website : (https://cuoratech.com).
 - Facebook : (https://facebook.com/cuoratech).
 - YouTube : (https://youtube.com/@cuoratech).
 - Twitter : (https://twitter.com/cuoratech).
 
-<p>All rights reserved, created by <br><a href="https://laravel.com" target="_blank"><img src="https://cuoratech.com/public/assets/images/png-logo-white.png" width="100"></a></p>
+<p>All rights reserved, created by Cuoratech.com</p>
