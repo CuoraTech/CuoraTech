@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cuoratech.com/assets/images/png-logo-white.png" width="200"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://seoudistore.com/public/assets/images/cuoratech-company-white.png" width="200"></a></p>
 
 ## About Cuoratech
 
