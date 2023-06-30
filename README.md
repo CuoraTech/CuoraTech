@@ -9,4 +9,4 @@ In Cuoratech, we provide you with technological services in various fields that 
 - YouTube : (https://youtube.com/@cuoratech).
 - Twitter : (https://twitter.com/cuoratech).
 
-<p>All rights reserved, created by Cuoratech.com</p>
+<p>All rights reserved, created by Cuoratech.com Development Team</p>
